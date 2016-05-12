@@ -1,4 +1,4 @@
-# Python-Exercises
+# C++ Exercises
 MIT OCW 6.096 Introduction to C++
 
 ## Summary
